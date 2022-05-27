@@ -1,0 +1,57 @@
+//CSS
+import "./Carossel.css"
+//IMG
+import superShoes from "../assets/static/images/super-shoes.png"
+import chevron from "../assets/static/images/right_chevron_icon.png";
+// HOOKS
+import { useRef } from "react";
+
+const Carossel = ({ data }) => {
+  const carousel = useRef(null)
+
+
+  const handleLeftClick = (e) => {
+    e.preventDefault();
+    carousel.current.scrollLeft -= carousel.current.offsetWidth
+
+
+  }
+  const handleRightClick = (e) => {
+    e.preventDefault()
+    carousel.current.scrollLeft += carousel.current.offsetWidth
+  }
+
+
+
+
+  return (
+    <div className="container">
+      <div className="logo">
+        <img src={superShoes} alt="Super Shoes Logo" />
+      </div>
+      <div className="carousel" ref={carousel}>
+
+        {data.map((item) => {
+          const { id, name, oldPrice, price, image } = item
+          return (<div className="item" key={id}>
+            <div className="image">
+              <img src={image} alt="name" />
+            </div>
+            <div className="info">
+              <span className="name">{name}</span>
+              <span className="oldPrice">R$: {oldPrice}</span>
+              <span className="price">R$: {price}</span>
+            </div>
+          </div>)
+
+        })}
+      </div>
+      <div className="buttons">
+        <button onClick={handleLeftClick}><img src={chevron} alt="Scroll Left" /></button>
+        <button onClick={handleRightClick}><img src={chevron} alt="Scroll Right" /></button>
+      </div>
+    </div>
+  )
+}
+
+export default Carossel
