@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Carrossel-React/static/css/main.b84ba910.css",
-    "main.js": "/Carrossel-React/static/js/main.e5a71d4f.js",
-    "static/media/super-shoes.png": "/Carrossel-React/static/media/super-shoes.6c4f1d0f951924f36c9c.png",
-    "index.html": "/Carrossel-React/index.html",
-    "main.b84ba910.css.map": "/Carrossel-React/static/css/main.b84ba910.css.map",
-    "main.e5a71d4f.js.map": "/Carrossel-React/static/js/main.e5a71d4f.js.map"
+    "main.css": "http://localhost:3000/static/css/main.b84ba910.css",
+    "main.js": "http://localhost:3000/static/js/main.8549a5e0.js",
+    "static/media/super-shoes.png": "http://localhost:3000/static/media/super-shoes.6c4f1d0f951924f36c9c.png",
+    "index.html": "http://localhost:3000/index.html",
+    "main.b84ba910.css.map": "http://localhost:3000/static/css/main.b84ba910.css.map",
+    "main.8549a5e0.js.map": "http://localhost:3000/static/js/main.8549a5e0.js.map"
   },
   "entrypoints": [
     "static/css/main.b84ba910.css",
-    "static/js/main.e5a71d4f.js"
+    "static/js/main.8549a5e0.js"
   ]
 }
