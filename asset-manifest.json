@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "http://localhost:3000/static/css/main.b84ba910.css",
-    "main.js": "http://localhost:3000/static/js/main.8549a5e0.js",
+    "main.js": "http://localhost:3000/static/js/main.e99f3bd1.js",
     "static/media/super-shoes.png": "http://localhost:3000/static/media/super-shoes.6c4f1d0f951924f36c9c.png",
     "index.html": "http://localhost:3000/index.html",
     "main.b84ba910.css.map": "http://localhost:3000/static/css/main.b84ba910.css.map",
-    "main.8549a5e0.js.map": "http://localhost:3000/static/js/main.8549a5e0.js.map"
+    "main.e99f3bd1.js.map": "http://localhost:3000/static/js/main.e99f3bd1.js.map"
   },
   "entrypoints": [
     "static/css/main.b84ba910.css",
-    "static/js/main.8549a5e0.js"
+    "static/js/main.e99f3bd1.js"
   ]
 }
