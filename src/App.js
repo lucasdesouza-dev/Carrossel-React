@@ -8,7 +8,7 @@ function App() {
   const [data, setData] = useState([])
 
   useEffect(() => {
-    fetch("http://localhost:3000/Carrossel-React/static/shoes.json")
+    fetch("http://localhost:3000/static/shoes.json")
       .then((response) => response.json()).then(setData)
 
 
