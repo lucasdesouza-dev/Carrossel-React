@@ -1,7 +1,27 @@
-![Carrossel React - Opera 27_05_2022 22_55_31](https://user-images.githubusercontent.com/55006206/170840390-e23bc24e-5380-4322-995c-b855a745738e.png)
+# Carossel de imagens Com React
+Um Spa(Single Page Application) implementando um carossel
 
-# Página Git Pages =>
-https://lucashenriquesouza.github.io/Carrossel-React/
+Criado com React e iniciado com Create-React-App
+
+Github pages: [https://lucashenriquesouza.github.io/Carrossel-React/)
+
+## Característica:
+
+### Carossel
+
+- design simples de um carossel 
+
+## Referências e Inspirações:
+
+[Usando Create-react-app para iniciar projeto](https://github.com/facebook/create-react-app)
+
+[React](https://pt-br.reactjs.org)
+
+[CSS ](https://www.w3schools.com/cssref/default.asp)
+
+[YouTube - Tutorial ](https://www.youtube.com/watch?v=cX0N3TNxumw&list=PLhjxdOe5elEiDT1itHdOBEPI_xt8c2mkB&index=2)
+
+[Deploy gh-pages](https://www.npmjs.com/package/gh-pages-deploy)
 
 # Getting Started with Create React App
 
