@@ -3,13 +3,19 @@ Um Spa(Single Page Application) implementando um carossel
 
 Criado com React e iniciado com Create-React-App
 
-Github pages: [https://lucashenriquesouza.github.io/Carrossel-React/)
+[Github pages:](https://lucashenriquesouza.github.io/Carrossel-React/)
 
 ## Característica:
 
 ### Carossel
 
 - design simples de um carossel 
+
+# Tecnologias utilizadas ⬇️
+
+[<img alt="create-react-app" width="26px" src="https://create-react-app.dev/img/logo.svg" />](https://create-react-app.dev)
+[<img alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />](https://pt-br.reactjs.org)
+[<img alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />](https://www.w3schools.com/css/)
 
 ## Referências e Inspirações:
 
