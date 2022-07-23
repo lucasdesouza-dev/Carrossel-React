@@ -3,7 +3,7 @@ Um Spa(Single Page Application) implementando um carossel
 
 Criado com React e iniciado com Create-React-App
 
-[Github pages:](https://lucashenriquesouza.github.io/Carrossel-React/)
+[Github pages:](https://lucasdesouza-dev.github.io/Carrossel-React/)
 
 ## Característica:
 
